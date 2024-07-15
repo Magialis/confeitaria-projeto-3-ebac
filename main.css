@@ -1,0 +1,72 @@
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+.navbar {
+    background-color: #be7eff;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #f1e4eb;
+    color: #be7eff;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand {
+    color: #f1e4eb;
+}
+
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #f1e4eb;
+}
+
+.navbar-toggler {
+    background-color: #fac1e0;
+}
+
+.section-title {
+    font-family: Water Brush, cursive;
+}
+
+#eventos,
+#fale-conosco {
+    background-color: #f3dbff;
+}
+
+#sobre-a-confeitaria,
+#cardapio {
+    background-color: #f1e4eb;
+}
+
+.text-colored {
+    color: #a449ff;
+}
+
+.text-colored2 {
+    color: #ff8dcc;
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
+    background-color: #be7eff;
+    color: #f1e4eb;
+}
+
+#fale-conosco button:hover {
+    border: 1px solid #f1e4eb;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: #a449ff;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
